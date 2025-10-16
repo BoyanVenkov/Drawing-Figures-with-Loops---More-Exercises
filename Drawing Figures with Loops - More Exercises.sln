@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Square of Stars", "03. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle of Dollars", "04. Triangle of Dollars\04. Triangle of Dollars.csproj", "{7146CD65-0776-4762-B27F-927CC7741E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Square Frame", "05. Square Frame\05. Square Frame.csproj", "{BE62588E-9E45-4442-8A2D-B8F82DE3E016}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7146CD65-0776-4762-B27F-927CC7741E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7146CD65-0776-4762-B27F-927CC7741E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7146CD65-0776-4762-B27F-927CC7741E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
