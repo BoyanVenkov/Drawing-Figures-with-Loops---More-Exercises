@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rectangle of 10 x 10 Stars", "01. Rectangle of 10 x 10 Stars\01. Rectangle of 10 x 10 Stars.csproj", "{8C4A81BB-AF74-423D-8466-37E1D1BC99A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rectangle of N x N Stars", "02. Rectangle of N x N Stars\02. Rectangle of N x N Stars.csproj", "{8A7B280E-63F4-44DA-B76C-8ABA90CDB8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Square of Stars", "03. Square of Stars\03. Square of Stars.csproj", "{A8E91E5E-4CD6-4B2D-ADAD-8DCA70CA0E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8A7B280E-63F4-44DA-B76C-8ABA90CDB8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A7B280E-63F4-44DA-B76C-8ABA90CDB8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A7B280E-63F4-44DA-B76C-8ABA90CDB8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E91E5E-4CD6-4B2D-ADAD-8DCA70CA0E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E91E5E-4CD6-4B2D-ADAD-8DCA70CA0E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E91E5E-4CD6-4B2D-ADAD-8DCA70CA0E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E91E5E-4CD6-4B2D-ADAD-8DCA70CA0E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
