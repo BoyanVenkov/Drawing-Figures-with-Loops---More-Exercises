@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Triangle of Dollars", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Square Frame", "05. Square Frame\05. Square Frame.csproj", "{BE62588E-9E45-4442-8A2D-B8F82DE3E016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Rhombus of Stars", "06. Rhombus of Stars\06. Rhombus of Stars.csproj", "{FC423EA2-8794-4442-A328-360643697E48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE62588E-9E45-4442-8A2D-B8F82DE3E016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC423EA2-8794-4442-A328-360643697E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC423EA2-8794-4442-A328-360643697E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC423EA2-8794-4442-A328-360643697E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC423EA2-8794-4442-A328-360643697E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
