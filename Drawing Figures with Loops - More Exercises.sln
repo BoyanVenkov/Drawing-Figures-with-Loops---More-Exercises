@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Rhombus of Stars", "06.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Christmas Tree", "07. Christmas Tree\07. Christmas Tree.csproj", "{C7AE2538-D1C6-404D-AD16-13F6B0893EBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Sunglasses", "08. Sunglasses\08. Sunglasses.csproj", "{071B4967-A7DA-4BDA-8603-C035DB809E86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C7AE2538-D1C6-404D-AD16-13F6B0893EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7AE2538-D1C6-404D-AD16-13F6B0893EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7AE2538-D1C6-404D-AD16-13F6B0893EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071B4967-A7DA-4BDA-8603-C035DB809E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071B4967-A7DA-4BDA-8603-C035DB809E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071B4967-A7DA-4BDA-8603-C035DB809E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071B4967-A7DA-4BDA-8603-C035DB809E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
